@@ -2,7 +2,7 @@
 
 &nbsp;
 
-**repository registry image :**<br />
+**Reference repository registry image :**<br />
 - jenkins/jenkins
     <pre>https://hub.docker.com/r/jenkins/jenkins/tags</pre>
 
