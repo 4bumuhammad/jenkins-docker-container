@@ -109,7 +109,63 @@
 
 &nbsp;
 
+**Console Management :**
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_jenkins_container_001.png" alt="ss_jenkins_container_001" style="display: block; margin: 0 auto;">
+</div> 
+
 &nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_jenkins_container_002.png" alt="ss_jenkins_container_002" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_jenkins_container_003.png" alt="ss_jenkins_container_003" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_jenkins_container_004.png" alt="ss_jenkins_container_004" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_jenkins_container_005.png" alt="ss_jenkins_container_005" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_jenkins_container_006.png" alt="ss_jenkins_container_006" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_jenkins_container_007.png" alt="ss_jenkins_container_007" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_jenkins_container_008.png" alt="ss_jenkins_container_008" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
 
 &nbsp;
 
