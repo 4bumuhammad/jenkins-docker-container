@@ -16,8 +16,6 @@
         -v /Users/powercommerce/Documents/test/docker-mount/jenkins_home:/var/jenkins_home \
         jenkins/jenkins:jdk21
 
-&nbsp;
-
 <pre>
         Unable to find image 'jenkins/jenkins:jdk21' locally
         jdk21: Pulling from jenkins/jenkins
